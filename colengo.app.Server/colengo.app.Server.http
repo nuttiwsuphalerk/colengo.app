@@ -1,0 +1,6 @@
+@colengo.app.Server_HostAddress = http://localhost:5018
+
+GET {{colengo.app.Server_HostAddress}}/product/
+Accept: application/json
+
+###
