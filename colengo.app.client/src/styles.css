@@ -45,3 +45,8 @@ ngbd-table-complete span.ngb-highlight {
 .container-fluid {
   width : 80%;
 }
+
+
+td {
+  vertical-align: middle !important;
+}
